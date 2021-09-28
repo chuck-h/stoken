@@ -3,7 +3,7 @@
  *  @copyright defined in eos/LICENSE.txt
  */
 
-#include <../include/seeds.token.hpp>
+#include <../include/stoken.hpp>
 
 namespace eosio {
 

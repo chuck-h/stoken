@@ -10,7 +10,7 @@ namespace contracts {
   name settings = "settgs.seeds"_n;
   name proposals = "funds.seeds"_n;
   name referendums = "rules.seeds"_n;
-  name history = "histry.seeds"_n;
+  name history = "histrdotsuds"_n;
   name token = "token.seeds"_n;
   name tlostoken = "eosio.token"_n;
   name policy = "policy.seeds"_n;
